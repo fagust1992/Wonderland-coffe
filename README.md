@@ -3,7 +3,7 @@ link web:
 [wonderland](https://lovely-sherbet-a98514.netlify.app/)
 
 #### Bienvenido al Repositiorio de Wonderland 💻🕶I
- valor aplicando un rediseño de la página actual, para entregar una interfaz más amigable, con información bien jerarquizada, también se muestran las recetas Wonderland en la carta y precios, y en cada receta se ofrece la informacion necesaria para la elaboración de esta 
+ aplicando un rediseño de la página actual, para entregar una interfaz más amigable, con información bien jerarquizada, también se muestran las recetas Wonderland en la carta y precios, y en cada receta se ofrece la informacion necesaria para la elaboración de esta 
 
 ## Install
 la pagina web estatica no requiere ningun comando ya que esta desarrollada en html css y javaScript.
